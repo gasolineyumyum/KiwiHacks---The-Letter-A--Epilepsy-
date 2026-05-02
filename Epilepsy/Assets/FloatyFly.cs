@@ -87,9 +87,5 @@ Vector2 pos2 = transform.position;
 pos2.y = clampedY;
 transform.position = pos2;
 
-void OnTriggerEnter2D(Collider2D other)
-{
-    Debug.Log("HIT: " + other.name);
-}
 }
 }

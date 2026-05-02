@@ -26,6 +26,8 @@ System.Collections.IEnumerator Switch()
     warningVisual.SetActive(false);
     laserVisual.SetActive(true);
 
+    col.enabled = true;
+
     yield return new WaitForSeconds(activeTime);
 
     Destroy(gameObject);
