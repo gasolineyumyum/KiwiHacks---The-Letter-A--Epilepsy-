@@ -36,9 +36,19 @@ public class FloatyFly : MonoBehaviour
         {
             Debug.Log("Player died");
 
-            UnityEngine.SceneManagement.SceneManager.LoadScene(
-    UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex
-);
+            
+        }
+    }
+
+    if (other.CompareTag("Bomb"))
+    {
+        health--;
+        Debug.Log("Hit! Health = " + health);
+
+        if (health <= 0)
+        {
+            Debug.Log("Player died");
+
         }
     }
 }

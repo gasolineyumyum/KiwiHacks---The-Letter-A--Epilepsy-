@@ -29,7 +29,7 @@ public class SpriteChanger : MonoBehaviour
         for(int i = 0; i < 5; i++)
         {
             // REMEMBER TO CHANGE THIS TO THE ACTUAL TIME WHEN IT CHANGES
-            yield return new WaitForSeconds(2);
+            yield return new WaitForSeconds(18);
             function();
         }
         

@@ -1,0 +1,158 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - BackgroundScroll
+    - Bomb
+    - CustomBlendModes.SpriteBlendingMode
+    - FloatyFly
+    - Foregroundscroll
+    - Laser
+    - MiddlegroundScroll
+    - Spawner
+    - SpriteChanger
+    - WinConditions
+  serializedClasses: {}
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Scenes/SampleScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1544}
+    - Class: 114
+      Script: {instanceID: 1790}
+    - Class: 114
+      Script: {instanceID: 1794}
+    - Class: 114
+      Script: {instanceID: 1806}
+    - Class: 114
+      Script: {instanceID: 1810}
+    - Class: 114
+      Script: {instanceID: 1814}
+    - Class: 114
+      Script: {instanceID: 1818}
+    - Class: 114
+      Script: {instanceID: 1822}
+    - Class: 114
+      Script: {instanceID: 1826}
+    - Class: 114
+      Script: {instanceID: 1830}
+    - Class: 114
+      Script: {instanceID: 17344}
+    - Class: 114
+      Script: {instanceID: 17350}
+    - Class: 114
+      Script: {instanceID: 17360}
+    - Class: 114
+      Script: {instanceID: 17368}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 12a8114603e9850284b918418bede03f
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FloatyFly
+  - hash:
+      serializedVersion: 2
+      Hash: 7dad5176ca464ed9d2442d94e3d932f3
+    assemblyName: Assembly-CSharp
+    namespaceName: CustomBlendModes
+    className: SpriteBlendingMode
+  - hash:
+      serializedVersion: 2
+      Hash: de2355dd49942bb39489a8c3a2a093bb
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SpriteChanger
+  - hash:
+      serializedVersion: 2
+      Hash: a0c6ea39886355b26f27e7657bf97429
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayerSprite
+  - hash:
+      serializedVersion: 2
+      Hash: ca788e7ebcc11143745aa522ac6e82b3
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: NewBehaviourScript
+  - hash:
+      serializedVersion: 2
+      Hash: 35b8fbd520e5fc6c5a122d698f906bea
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MiddlegroundScroll
+  - hash:
+      serializedVersion: 2
+      Hash: a524d6fccbb9b66ba71bb13db92313be
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: WinConditions
+  - hash:
+      serializedVersion: 2
+      Hash: e1956e6e7f40749d7ccd85066d13b61f
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Bomb
+  - hash:
+      serializedVersion: 2
+      Hash: 05c8133968ed50ad1e96aaa890e46253
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Spawner
+  - hash:
+      serializedVersion: 2
+      Hash: fa6deba314ead0e91832a47f2ffb6207
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Laser
+  - hash:
+      serializedVersion: 2
+      Hash: bfedd303e3f092a430c19c5268f0cacc
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: BackgroundScroll
+  - hash:
+      serializedVersion: 2
+      Hash: 79f543daa5d6ad151e873b4309247d14
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Foregroundscroll
+  platform: 19
+  scenePathNames:
+  - Assets/Scenes/SampleScene.unity
+  playerPath: C:/Users/karar/KiwiHacks - The Letter A, -Epilepsy-/Epilepsy/game export/Epilepsy.exe
